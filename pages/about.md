@@ -1,8 +1,8 @@
 ---
 layout: page
 title: About
-description: The World Needs Programmers
-keywords: Jeffrey, zhenyu
+description: "maybe"
+keywords: Lexi, Bu
 comments: true
 menu: About
 permalink: /about/
