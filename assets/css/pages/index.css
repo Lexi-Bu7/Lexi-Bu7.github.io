@@ -7,8 +7,8 @@
 }
 
 .home .site-header {
-    background: #a87699;
-    color: #969696
+    background: #8b6180;
+    color: #312f2f
 }
 
 .home .banner .collection-head {
@@ -27,11 +27,11 @@
 }
 
 .home .site-header .site-header-nav-item {
-    color: rgba(255, 255, 255, .5)
+    color: rgba(255, 255, 255, 0.26)
 }
 
 .home .site-header .site-header-nav-item:hover {
-    color: #f4eff3
+    color: #555455
 }
 
 
