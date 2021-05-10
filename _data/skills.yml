@@ -4,11 +4,11 @@
       - JavaScript
       - Java
       - SQL
+      - C#
 
 - name: Front End Developer Keywords
   keywords:
-      - React
-      - Redux
-      - GraphQL
-      - Material UI
-
+    #  - React
+    #  - Redux
+    #  - GraphQL
+    #  - Material UI
