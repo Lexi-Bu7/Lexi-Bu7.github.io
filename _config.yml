@@ -7,7 +7,7 @@ date_format: "ordinal"
 title: Lexi (Yue)'s Blog
 subtitle: "Variety is the spice of life"
 description: "Personal Blog"
-keywords: Diary, Jeffrey, Techonlogy, github pages, Post, North America, Leetcode, Interview
+keywords: Diary, Techonlogy, github pages, Post, North America, Leetcode, Interview
 timezone: America/Nebraska
 encoding: "utf-8"
 side_bar_repo_limit: 5
@@ -69,7 +69,7 @@ plugins:
     - jemoji
     - jekyll-seo-tag
 
-repository: zhenyu0519/zhenyu0519.github.io
+repository: Yue-Bu/Yue-Bu.github.io
 
 # ---------------- #
 #      Comments    #
@@ -83,17 +83,17 @@ disqus:
     username:
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: lexibu
+    owner: Yue-Bu
     repo: Yue-Bu.github.io
     oauth:
-        client_id: 4cef70907f5b36353d59
-        client_secret: 94b120bec4f51b07c796df03ad3ece5a99f71ed6
+        client_id: ce98434bbb70a47a8a80
+        client_secret: 4e331056e8b307a25ae602fdfd6e805ed9f21762
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: lexibu
+    owner: Yue-Bu
     repo: Yue-Bu.github.io
-    clientID: 4cef70907f5b36353d59
-    clientSecret: 94b120bec4f51b07c796df03ad3ece5a99f71ed6
+    clientID: ce98434bbb70a47a8a80
+    clientSecret: 4e331056e8b307a25ae602fdfd6e805ed9f21762
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
