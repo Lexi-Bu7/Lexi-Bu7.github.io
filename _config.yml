@@ -86,14 +86,14 @@ gitment:
     owner: Yue-Bu
     repo: Yue-Bu.github.io
     oauth:
-        client_id: ce98434bbb70a47a8a80
-        client_secret: 4e331056e8b307a25ae602fdfd6e805ed9f21762
+        client_id: 3297f1d6fe612475eed7
+        client_secret: 54ead3cef9c08a12ec9028774a8ba8b8ac49dd31
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: Yue-Bu
     repo: Yue-Bu.github.io
-    clientID: ce98434bbb70a47a8a80
-    clientSecret: 4e331056e8b307a25ae602fdfd6e805ed9f21762
+    clientID: 3297f1d6fe612475eed7
+    clientSecret: 54ead3cef9c08a12ec9028774a8ba8b8ac49dd31
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
