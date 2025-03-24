@@ -18,7 +18,7 @@ side_bar_repo_limit: 5
 author: Lexi
 organization:
 organization_url:
-github_username: Yue-Bu
+github_username: Lexi-Bu7
 location: Nebraska, US
 email: hello@lexibu.com
 
@@ -83,15 +83,15 @@ disqus:
     username:
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: Yue-Bu
-    repo: Yue-Bu.github.io
+    owner: Lexi-Bu7
+    repo: Lexi-Bu7.github.io
     oauth:
         client_id: 3297f1d6fe612475eed7
         client_secret: e439a9155463eb942fb76197d0289df75b21bc7e
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: Yue-Bu
-    repo: Yue-Bu.github.io
+    owner: Lexi-Bu7
+    repo: Lexi-Bu7.github.io
     clientID: 3297f1d6fe612475eed7
     clientSecret: e439a9155463eb942fb76197d0289df75b21bc7e
 # 在使用其它评论组件时可点击显示 Disqus
