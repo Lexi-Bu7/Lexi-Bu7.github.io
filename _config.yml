@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://Yue-Bu.github.io
+url: https://Lexi-Bu7.github.io
 date_format: "ordinal"
 title: Lexi (Yue)'s Blog
 subtitle: "Variety is the spice of life"
@@ -69,7 +69,7 @@ plugins:
     - jemoji
     - jekyll-seo-tag
 
-repository: Yue-Bu/Yue-Bu.github.io
+repository: Lexi-Bu7/Lexi-Bu7.github.io
 
 # ---------------- #
 #      Comments    #
