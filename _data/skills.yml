@@ -1,14 +1,13 @@
-- name: Software Engineer Keywords
+- name: Backend Software Engineer Keywords
   keywords:
-      - Python
-      - JavaScript
-      - Java
-      - SQL
       - C#
+      - ASP.NET Core
+      - Restful API
+      - SQL
 
 - name: Front End Developer Keywords
   keywords:
-    #  - React
-    #  - Redux
+    #  - Angular
+    #  - Typescript
     #  - GraphQL
     #  - Material UI
